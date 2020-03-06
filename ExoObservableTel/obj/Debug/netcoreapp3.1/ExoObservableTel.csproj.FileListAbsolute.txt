@@ -1,0 +1,11 @@
+C:\Users\Utilisateur\source\repos\ExoObservableTel\ExoObservableTel\bin\Debug\netcoreapp3.1\ExoObservableTel.exe
+C:\Users\Utilisateur\source\repos\ExoObservableTel\ExoObservableTel\bin\Debug\netcoreapp3.1\ExoObservableTel.deps.json
+C:\Users\Utilisateur\source\repos\ExoObservableTel\ExoObservableTel\bin\Debug\netcoreapp3.1\ExoObservableTel.runtimeconfig.json
+C:\Users\Utilisateur\source\repos\ExoObservableTel\ExoObservableTel\bin\Debug\netcoreapp3.1\ExoObservableTel.runtimeconfig.dev.json
+C:\Users\Utilisateur\source\repos\ExoObservableTel\ExoObservableTel\bin\Debug\netcoreapp3.1\ExoObservableTel.dll
+C:\Users\Utilisateur\source\repos\ExoObservableTel\ExoObservableTel\bin\Debug\netcoreapp3.1\ExoObservableTel.pdb
+C:\Users\Utilisateur\source\repos\ExoObservableTel\ExoObservableTel\obj\Debug\netcoreapp3.1\ExoObservableTel.csprojAssemblyReference.cache
+C:\Users\Utilisateur\source\repos\ExoObservableTel\ExoObservableTel\obj\Debug\netcoreapp3.1\ExoObservableTel.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\source\repos\ExoObservableTel\ExoObservableTel\obj\Debug\netcoreapp3.1\ExoObservableTel.AssemblyInfo.cs
+C:\Users\Utilisateur\source\repos\ExoObservableTel\ExoObservableTel\obj\Debug\netcoreapp3.1\ExoObservableTel.dll
+C:\Users\Utilisateur\source\repos\ExoObservableTel\ExoObservableTel\obj\Debug\netcoreapp3.1\ExoObservableTel.pdb
